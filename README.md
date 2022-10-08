@@ -11,17 +11,14 @@ Those who create take notes. `Simple notes` is a web application for you to take
 ### Design: 
 - Figma
 
-## Features
+## Main Features
 - Add new notes
 - Rich text editing
 - Save notes to folder
 - Search notes
-- Share on twitter
 - Save favorites
-- Recycle bin
 - Dark/light mode
-- User setting
-- Firebase data storage
+- User settings
 
 The project is still in its infancy, so there's no demo yet. But here's the first look (Figma design):
 

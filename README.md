@@ -13,7 +13,7 @@ Are you color lovers? There are five selected color theme to match your artistic
 ### Design: 
 - Figma
 
-### Features:
+## Features:
 - Add new notes
 - Rich text editing
 - Save notes to folder

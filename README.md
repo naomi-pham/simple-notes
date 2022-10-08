@@ -18,7 +18,6 @@ Those who create take notes. `Simple notes` is a web application for you to take
 - Search notes
 - Save favorites
 - Dark/light mode
-- User settings
 
 The project is still in its infancy, so there's no demo yet. But here's the first look (Figma design):
 

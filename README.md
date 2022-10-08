@@ -25,7 +25,7 @@ The app is available in `dark` and `light` mode to lessen your eye strain at the
 - User setting
 - Firebase data storage
 
-The project is still in its infancy, so there's no demo available. But here's the first look of the app (Figma design):
+The project is still in its infancy, so there's no demo yet. But here's the first look of it (Figma design):
 
 #### Dark-mode Home page
 

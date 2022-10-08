@@ -1,8 +1,6 @@
 # Simple notes
 
-Those who create take notes. `Simple notes` is a web application for you to take aesthetic notes of inspiring ideas. It is avalable in both dark and light mode to lessen your eye strain at later time of the day. The app is also responsive so you can take notes whenever you are. 
-
-Are you color lovers? There are five selected color theme to match your artistic style. 
+Those who create take notes. `Simple notes` is a web application for you to take aesthetic notes of inspiring ideas. It is avalable in both dark and light mode to lessen your eye strain at later time of the day. The app is also responsive so you can take notes wherever you are. 
 
 ## Technology used: 
 

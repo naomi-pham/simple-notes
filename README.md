@@ -23,7 +23,7 @@ Those who create take notes. `Simple notes` is a web application for you to take
 - User setting
 - Firebase data storage
 
-The project is still in its infancy, so there's no demo yet. But here's the first look of it (Figma design):
+The project is still in its infancy, so there's no demo yet. But here's the first look (Figma design):
 
 #### Dark-mode Home page
 

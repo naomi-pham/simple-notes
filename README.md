@@ -1,8 +1,6 @@
 # Simple notes
 
-Those who create take notes. `Simple notes` is a web application for you to take aesthetic notes of inspiring ideas. Not only that you can share notes to friends on twitter or send it to your email inbox for later review.
-
-The app is available in `dark` and `light` mode to lessen your eye strain at the later hours. It is also responsive so you can take notes wherever you are.
+Those who create take notes. `Simple notes` is a web application for you to take aesthetic notes of inspiring ideas. Not only that you can share notes to friends on Twitter or send it to your email inbox for later review. The app is available in `dark` and `light` mode to lessen your eye strain at the later hours. It is also responsive so you can take notes on both desktop and mobile.
 
 ## Technology used: 
 

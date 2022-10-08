@@ -37,7 +37,7 @@ The project is still in its infancy, so there's no demo available. But here's th
 
 #### Dark-mode All notes
 
-![All-note-dark)(https://github.com/naomi-pham/simple-notes/blob/6e8ed0a074a7ae0ec73f07f7a09a76f612331348/images/%23all-notes.png)
+![All-note-dark](https://github.com/naomi-pham/simple-notes/blob/6e8ed0a074a7ae0ec73f07f7a09a76f612331348/images/%23all-notes.png)
 
 #### Light-mode All notes
 

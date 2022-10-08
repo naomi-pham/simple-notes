@@ -42,3 +42,5 @@ The project is still in its infancy, so there's no demo yet. But here's the firs
 #### Light-mode All notes
 
 ![All-note-light](https://github.com/naomi-pham/simple-notes/blob/main/images/%23all-notes%20(1).png)
+
+Any feedback is so welcome! You can drop me a note any time via [email](mailto:phambaonguyendn@gmail.com) or [Twitter](https://twitter.com/naomipham_). Thank you!
